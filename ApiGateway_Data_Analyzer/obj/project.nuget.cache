@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "S9CKeB6aM/bWzfR+8JcQqFAUjWa5DBIzm2LiX/UfQAEvPaCzmw9XbTSubthDIHGnIOaEm55kxZqS4vE7S3YvFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pc\\source\\repos\\ApiGateway_Data_Analyzer\\ApiGateway_Data_Analyzer\\ApiGateway_Data_Analyzer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\5.0.11\\microsoft.aspnetcore.jsonpatch.5.0.11.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\5.0.11\\microsoft.aspnetcore.mvc.newtonsoftjson.5.0.11.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
